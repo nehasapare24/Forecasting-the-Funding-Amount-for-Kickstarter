@@ -1,1 +1,2 @@
-# Forecasting-the-Funding-Amount-for-Kickstarter
+# Forecasting-the-Funding-Amount-for-
+This project involved a comprehensive analysis of Kickstarter data, augmented with social media interactions, to determine the key factors influencing funding success. Using Python and R, I developed a sophisticated regression model that combined social signals with traditional data points, such as backer count and project category. The model employed advanced statistical techniques, including multi-level Poisson and negative binomial regressions with zero inflation, to predict funding amounts across various countries with notable precision.
